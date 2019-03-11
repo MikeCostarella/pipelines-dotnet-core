@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/CostarellaInnovationsLLC/pipelines-dotnet-core/_apis/build/status/MikeCostarella.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/CostarellaInnovationsLLC/pipelines-dotnet-core/_build/latest?definitionId=3&branchName=master)
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to use this repository, see docs for [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
